@@ -1,4 +1,4 @@
-# Capstone Project: Synthetic Traffic Data Simulation for Semantic Segmentation
+# Capstone Project: "_Designing a Photorealistic Simulation Platform for Robust Semantic Segmentation in Autonomous Vehicles"_
 
 ## Overview
 
