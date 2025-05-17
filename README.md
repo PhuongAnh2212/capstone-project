@@ -13,10 +13,6 @@ The project is organized into the following key modules:
 - **Model Training**: Implements semantic segmentation models to classify traffic-related objects.
 - **Evaluation**: Assesses model performance and identifies areas for improvement.
 
-## Challenges Encountered
-
-A significant issue faced during the project was the class imbalance within the synthetic dataset, leading to misclassification of traffic lights. Despite efforts to balance the dataset, the model struggled to accurately identify traffic lights, highlighting the need for further research in this area.
-
 ## Further Research Directions
 
 To address the challenges identified, future work will focus on:
