@@ -37,3 +37,6 @@ To address the challenges identified, future work will focus on:
 - Python 3.x
 - Jupyter Notebook
 - Required Python libraries (to be listed)
+
+## Acknowledgement
+* EasySynth (https://github.com/ydrive/EasySynth/tree/main)  
