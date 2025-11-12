@@ -4,8 +4,11 @@
 
 This repository presents a comprehensive pipeline designed to address the data scarcity challenges in autonomous driving systems. By leveraging synthetic data generation through a simulation platform, the project aims to create realistic traffic scenarios for training semantic segmentation models. The primary objective is to enhance the accuracy and robustness of traffic light detection in various driving conditions.
 
-**3 type synchronized images
-**
+Full thesis can be found here: [link](https://drive.google.com/file/d/1Vfit_xs2EAnr1bDVw1j16TsRFh-5X1UQ/view?usp=drive_link)
+
+
+**3 type synchronized images**
+
 <img src ="README/contribution.png"/>
 
 ## Project Structure
